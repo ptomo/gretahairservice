@@ -12,3 +12,6 @@
 
 # Out directory #
 out/*
+
+# Build directory #
+build/*
